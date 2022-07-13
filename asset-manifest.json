@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ststema_Site_l2JAVA/static/css/main.0df3a4bc.css",
+    "main.js": "/ststema_Site_l2JAVA/static/js/main.7119bf31.js",
+    "static/js/787.98a5be84.chunk.js": "/ststema_Site_l2JAVA/static/js/787.98a5be84.chunk.js",
+    "index.html": "/ststema_Site_l2JAVA/index.html",
+    "main.0df3a4bc.css.map": "/ststema_Site_l2JAVA/static/css/main.0df3a4bc.css.map",
+    "main.7119bf31.js.map": "/ststema_Site_l2JAVA/static/js/main.7119bf31.js.map",
+    "787.98a5be84.chunk.js.map": "/ststema_Site_l2JAVA/static/js/787.98a5be84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df3a4bc.css",
+    "static/js/main.7119bf31.js"
+  ]
+}
